@@ -1,2 +1,4 @@
 # pragmamesh
-Pragma perfsonar configuration
+## PRAGMA perfsonar mesh config
+Meshconfig for the PRAGMA perfSONAR mesh, and supporting files.
+
